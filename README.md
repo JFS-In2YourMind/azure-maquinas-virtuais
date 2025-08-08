@@ -33,9 +33,11 @@ rust
 Copiar
 Editar
 azure-maquinas-virtuais/
+
 │
 ├── README.md               -> Documento explicativo do projeto
 └── images/                 -> (Opcional) Capturas de tela do ambiente e configurações da VM
+
 Observação: devido a limitações no momento do desafio (não pude pagar o Azure), a máquina virtual não foi criada diretamente na Azure. No entanto, toda a documentação foi baseada no conteúdo estudado e nas simulações propostas durante as aulas da DIO.
 
 Tecnologias
