@@ -36,7 +36,7 @@ azure-maquinas-virtuais/
 │
 ├── README.md               -> Documento explicativo do projeto
 └── images/                 -> (Opcional) Capturas de tela do ambiente e configurações da VM
-Observação: devido a limitações no momento do desafio, a máquina virtual não foi criada diretamente na Azure. No entanto, toda a documentação foi baseada no conteúdo estudado e nas simulações propostas durante as aulas da DIO.
+Observação: devido a limitações no momento do desafio (não pude pagar o Azure), a máquina virtual não foi criada diretamente na Azure. No entanto, toda a documentação foi baseada no conteúdo estudado e nas simulações propostas durante as aulas da DIO.
 
 Tecnologias
 Microsoft Azure (conceitos)
@@ -46,7 +46,7 @@ Git e GitHub
 Markdown
 
 Referências
-Documentação oficial da Azure
+Documentação oficial da Azure: https://learn.microsoft.com/pt-br/azure/virtual-machines/
 
-Lab DIO: Benefícios da Nuvem
+Lab DIO: Benefícios da Nuvem : https://web.dio.me/project/beneficios-da-nuvem-laboratorio/learning/2b62110b-a23f-485f-9e37-71a9f3705293?back=/track/gft-start-7-net&tab=undefined&moduleId=undefined
 
