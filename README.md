@@ -1,34 +1,36 @@
 # azure-maquinas-virtuais
+
 Descrição do Projeto
+
 Este repositório foi criado como parte do desafio da DIO sobre Benefícios da Nuvem, com foco na criação e gerenciamento de máquinas virtuais utilizando a plataforma Microsoft Azure. A proposta visa consolidar o aprendizado sobre computação em nuvem, aplicando os conceitos em um ambiente prático e documentando todo o processo de forma técnica.
 
 Objetivo
 Demonstrar o conhecimento adquirido sobre:
 
-Criação e configuração de máquinas virtuais no portal Azure
+-Criação e configuração de máquinas virtuais no portal Azure
 
-Benefícios da computação em nuvem
+-Benefícios da computação em nuvem
 
-Utilização do GitHub como repositório de documentação técnica
+-Utilização do GitHub como repositório de documentação técnica
 
-Consolidação de boas práticas em ambientes cloud
+-Consolidação de boas práticas em ambientes cloud
 
 O que foi realizado
 Durante o laboratório, foram realizadas as seguintes atividades:
 
-Acesso ao portal do Azure
+-Acesso ao portal do Azure
 
-Criação de uma conta gratuita (com limitações de cobrança e uso)
+-Criação de uma conta gratuita (com limitações de cobrança e uso)
 
-Instanciação de uma máquina virtual com sistema operacional Windows
+-Instanciação de uma máquina virtual com sistema operacional Windows
 
-Configuração básica da VM: nome, localização, tipo de imagem, grupo de recursos, etc.
+-Configuração básica da VM: nome, localização, tipo de imagem, grupo de recursos, etc.
 
-Acesso remoto à VM via RDP
+-Acesso remoto à VM via RDP
 
-Entendimento dos principais benefícios da nuvem: escalabilidade, flexibilidade, alta disponibilidade e otimização de custos
+-Entendimento dos principais benefícios da nuvem: escalabilidade, flexibilidade, alta disponibilidade e otimização de custos
 
-Estrutura do Repositório
+Estrutura do Repositório:
 rust
 Copiar
 Editar
